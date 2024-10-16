@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Smart buildings and digital engineering
 ======
-UCL HomeUCL Institute for Environmental Design and EngineeringResearchSmart Buildings & Digital Engineering
-Smart buildings and digital engineering
-As new technologies and digitalisation transform the way we engage with the world, it has also lead to a revolution in the built environment and the rise of smart buildings and digital engineering.
 
 The recent revolution in digital technology and cyber-physical systems has the potential to reduce costs and overcome barriers to energy efficiency through advanced control and operation of building HVAC systems. Digitalisation has had a transformative impact in many areas. The Smart Buildings and Digital Engineering theme seeks to envisage how digitalisation changes how built assets are designed, constructed and operated.
 
