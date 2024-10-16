@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 
 The recent revolution in digital technology and cyber-physical systems has the potential to reduce costs and overcome barriers to energy efficiency through advanced control and operation of building HVAC systems. Digitalisation has had a transformative impact in many areas. The Smart Buildings and Digital Engineering theme seeks to envisage how digitalisation changes how built assets are designed, constructed and operated.
 
@@ -18,6 +17,3 @@ The activities within the Smart Buildings and Digital Engineering theme seek to 
 The International Energy Agency highlighted in the 2019 Energy Efficiency report the role that digitalisation will have in the built environment; the concept of digitalisation is explained as “the increasing interaction and convergence between the digital and physical worlds” where “the digital world has three fundamental elements:  data, analytics, connectivity”.   
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
