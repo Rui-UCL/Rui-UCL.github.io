@@ -6,7 +6,7 @@
 
 main:
   - title: "Research Areas"
-    url: /Publication/
+    url: /Publications/
 
   - title: "Recent Projects"
     url: /Recent Projects/    
