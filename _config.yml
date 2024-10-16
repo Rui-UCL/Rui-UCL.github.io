@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "111 / Site Title"
+title                    : "111"
 title_separator          : "-"
 name                     : &name "4"
 description              : &description "personal description"
