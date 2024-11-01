@@ -3,19 +3,19 @@ main:
   - title: "Research Areas"
     url: /researchareas/  
   
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Team"
-    url: /team/
+  - title: "Recent Projects"
+    url: /Recentprojects/
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching/
+
+  - title: "People"
+    url: /People/   
 
 
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   #  - title: "Talks"
   #    url: /talks/    
