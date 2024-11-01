@@ -5,7 +5,7 @@ permalink: /Recentprojects/
 author_profile: true
 ---
 
-- BIMERR - BIM-based holistic tools for Energy-driven Renovation of existing Residences
+- [BIMERR](https://bimerr.eu/) - BIM-based holistic tools for Energy-driven Renovation of existing Residences
 - BuildOn - Affordable and digital solutions to Build the next generation of smart EU buildings
 - CBIM – Cloud-based Building Information Modelling
 - COGITO - Construction-phase digital twin model
