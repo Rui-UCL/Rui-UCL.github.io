@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Research_Area"
-permalink: /Research_Area/
+title: "Research Areas"
+permalink: /researchareas/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
