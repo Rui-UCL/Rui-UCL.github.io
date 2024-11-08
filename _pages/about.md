@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="background-color: #f0f8ff; padding: 10px;">
-*As new technologies and digitalisation transform the way we engage with the world, it has also led to a revolution in the built environment and the rise of smart buildings and digital engineering.*
+<em>As new technologies and digitalisation transform the way we engage with the world, it has also led to a revolution in the built environment and the rise of smart buildings and digital engineering.</em>
 </div>
 
 ---
