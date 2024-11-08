@@ -10,13 +10,13 @@ location: "London"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-### <span style="color:cornflowerblue">** Smart Buildings and Digital Engineering MSc **</span>
+<h2 style="color:cornflowerblue;">Smart Buildings and Digital Engineering MSc</h2>
 
 Delivering smarter buildings and a better built environment for the interconnected, sustainable world of tomorrow.
 
 ---
 
-### <span style="color:cornflowerblue">** Relevant Modules **</span>
+<h2 style="color:cornflowerblue;">Relevant Modules</h2>
 
 - **Machine Learning in Smart Buildings**
 - **Building Systems Modelling**
