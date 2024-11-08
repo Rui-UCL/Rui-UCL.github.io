@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3 style="color:cornflowerblue;">**Smart Buildings**</h3>
+<h3 style="color:cornflowerblue;">Smart Buildings</h3>
 
 The theme explores the tools and methods to develop and deliver data-driven smart buildings. We understand a data-driven smart building in line with the definition given by **IEA Annex 81**:
 
