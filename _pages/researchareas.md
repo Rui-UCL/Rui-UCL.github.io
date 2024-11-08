@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# <span style="color:blue">**Smart Buildings**</span>
+### <span style="color:cornflowerblue">** Smart Buildings **</span>
 
 The theme explores the tools and methods to develop and deliver data-driven smart buildings. We understand a data-driven smart building in line with the definition given by **IEA Annex 81**:
 
@@ -15,7 +15,7 @@ The theme explores the tools and methods to develop and deliver data-driven smar
 
 ---
 
-# <span style="color:blue">**Digital Engineering**</span>
+### <span style="color:cornflowerblue">** Digital Engineering **</span>
 
 Work within the area seeks to develop the knowledge and tools to support digital building delivery. This encompasses both aspects of energy and information modelling.
 
