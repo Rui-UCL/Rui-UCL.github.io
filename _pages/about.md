@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About SBDE Group"
+title: "About Us"
 author_profile: true
 redirect_from: 
   - /about/
