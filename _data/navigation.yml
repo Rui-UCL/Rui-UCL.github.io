@@ -2,10 +2,7 @@
 main:
   - title: "Research Areas"
     url: /researchareas/  
-
-  - title: "Case Studies"
-    url: /casestudies/  
-  
+ 
   - title: "Recent Projects"
     url: /recentprojects/
 
