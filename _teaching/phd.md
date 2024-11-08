@@ -8,8 +8,7 @@ date: 2024-11-08
 location: "London"
 ---
 
-
-<h2 style="color:lightseagreen;">Doctoral Research (PhD)</h2>
+Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
 
 Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
 
