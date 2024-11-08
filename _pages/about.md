@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Smart buildings and digital engineering"
+title: "About SBDE Group"
 author_profile: true
 redirect_from: 
   - /about/
