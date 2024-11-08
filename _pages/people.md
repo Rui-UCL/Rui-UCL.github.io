@@ -5,8 +5,9 @@ permalink: /people/
 author_profile: true
 ---
 
-Test
-### ** Researchers **
+### 
+
+** Researchers **
 
 - **Ivan Korolija**\
   Lecturer\
