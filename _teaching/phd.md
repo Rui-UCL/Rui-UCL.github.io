@@ -10,11 +10,11 @@ location: "London"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-### <span style="color:lightseagreen">** Doctoral Research (PhD) **</span>
+<h2 style="color:lightseagreen;">Doctoral Research (PhD)</h2>
 
 Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
 
-#### <span style="color:lightseagreen">** Recent Dissertation Topics **</span>
+<h3 style="color:lightseagreen;">Doctoral Researchers and Their Topics</h3>
 
 - **Explainable Machine Learning for Building Energy Consumption Prediction**
 - **A practical application of linked data technologies for thermal comfort and indoor air quality assessment: UCL Student Centre case study**
@@ -22,7 +22,7 @@ Our doctoral researchers cover a broad range of topics in the broader context of
 - **Predictive HVAC control based on model-based reinforcement learning**
 - **Doctoral research relating to Acoustics & Soundscapes**
 
-#### <span style="color:lightseagreen">** Doctoral Researchers and Their Topics **</span>
+<h3 style="color:lightseagreen;">Recent Dissertation Topics</h3>
 
 - **Guokai Chen**: 'Control Rule Extraction in HVAC systems using Model Predictive Control'
 - **Alex Fung**: 'Timeless Digital Twins for the Energy Health Nexus'
