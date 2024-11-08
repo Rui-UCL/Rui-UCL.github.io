@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Smart Buildings and Digital Engineering MSc"
 collection: teaching
 type: "MSc Course"
 permalink: /teaching/msc
