@@ -10,8 +10,6 @@ location: "London"
 
 Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
 
-Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
-
 <h3 style="color:lightseagreen;">Doctoral Researchers and Their Topics</h3>
 
 - **Explainable Machine Learning for Building Energy Consumption Prediction**
