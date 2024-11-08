@@ -4,16 +4,16 @@ main:
     url: /researchareas/  
 
   - title: "Case Studies"
-    url: /researchareas/  
+    url: /casestudies/  
   
   - title: "Recent Projects"
-    url: /Recentprojects/
+    url: /recentprojects/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "People"
-    url: /People/   
+    url: /people/   
 
 
 
