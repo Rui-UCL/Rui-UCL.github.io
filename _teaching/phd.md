@@ -22,7 +22,7 @@ Our doctoral researchers cover a broad range of topics in the broader context of
 - **Predictive HVAC control based on model-based reinforcement learning**
 - **Doctoral research relating to Acoustics & Soundscapes**
 
-#### <span style="color:lightseagreen">** Notable Doctoral Researchers and Their Topics **</span>
+#### <span style="color:lightseagreen">** Doctoral Researchers and Their Topics **</span>
 
 - **Guokai Chen**: 'Control Rule Extraction in HVAC systems using Model Predictive Control'
 - **Alex Fung**: 'Timeless Digital Twins for the Energy Health Nexus'
