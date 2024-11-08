@@ -10,25 +10,7 @@ location: "London"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-### <span style="color:cornflowerblue">** Smart Buildings and Digital Engineering MSc **</span>
-
-Delivering smarter buildings and a better built environment for the interconnected, sustainable world of tomorrow.
-
----
-
-### <span style="color:cornflowerblue">** Relevant Modules **</span>
-
-- **Machine Learning in Smart Buildings**
-- **Building Systems Modelling**
-- **Integrated Building Design for Health and Wellbeing**
-- **Building Systems Physics**
-- **Engineered Environmental Elements**
-- **Integrated Building Systems Simulation**
-- **Dissertation: Smart Buildings and Digital Engineering**
-
----
-
-### <span style="color:lightseagreen">** Doctoral Research Areas **</span>
+### <span style="color:lightseagreen">** Doctoral Research (PhD) **</span>
 
 Our doctoral researchers cover a broad range of topics in the broader context of our UCL Institute for Environmental Design and Engineering vision and themes, looking at factors related to both the physical environment and people. Recent dissertation topics in the area include:
 
