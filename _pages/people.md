@@ -5,9 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-### 
-
-** Researchers **
+### ** Researchers **
 
 - **Ivan Korolija**\
   Lecturer\
@@ -64,4 +62,3 @@ author_profile: true
 - **Wenzhuo Li**\
   KTP Research Associate\
   [wenzhuo.li@ucl.ac.uk](mailto:wenzhuo.li@ucl.ac.uk)
-
