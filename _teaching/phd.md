@@ -8,7 +8,6 @@ date: 2024-11-08
 location: "London"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 <h2 style="color:lightseagreen;">Doctoral Research (PhD)</h2>
 
