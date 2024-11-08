@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recent projects"
+title: "Recent Projects"
 permalink: /recentprojects/
 author_profile: true
 ---
