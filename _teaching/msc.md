@@ -25,4 +25,3 @@ Delivering smarter buildings and a better built environment for the interconnect
 - **Engineered Environmental Elements**
 - **Integrated Building Systems Simulation**
 - **Dissertation: Smart Buildings and Digital Engineering**
-
