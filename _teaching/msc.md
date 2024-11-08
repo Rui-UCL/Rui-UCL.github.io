@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc Course"
 permalink: /teaching/msc
 venue: "University College London"
-date: 2024
+date: 2024-11-08
 location: "London"
 ---
 
