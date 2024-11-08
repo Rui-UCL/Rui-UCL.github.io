@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "People"
+title: "Researchers"
 permalink: /people/
 author_profile: true
 ---
-
-### ** Researchers **
 
 - **Ivan Korolija**\
   Lecturer\
