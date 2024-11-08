@@ -4,7 +4,7 @@ collection: teaching
 type: "Doctoral Research (PhD)"
 permalink: /teaching/phd
 venue: "University College London"
-date: 2024
+date: 2024-11-08
 location: "London"
 ---
 
